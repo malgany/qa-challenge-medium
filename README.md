@@ -19,7 +19,7 @@ O desafio consiste em:
 
 Crie cenários de testes baseados no protótipo abaixo. Você está livre para usar o formato que quiser.
 
-![Resumo do Cliente](./images/client-summary.png)
+![Resumo do Cliente](https://github.com/WealthSystems/qa-challenge/blob/master/images/client-summary.png)
 
 ## 2 - Automação de 2 funcionalidades front-end
 
