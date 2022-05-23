@@ -44,6 +44,8 @@ Valide o JSON schema e http code das respostas.
 Os itens abaixo não são obrigatórios.
 
 - Use Gherkin para descrição dos cenários de testes;
+  - Video 1: O que é BDD: https://youtu.be/DoEzwnqB1mk
+  - Video 2: O que é Gherkin: https://youtu.be/XYhaFnjvi3U?t=224
 - Para automação das funcionalides front-end, busque usar um framework JavaScript;
 - Utilize o Postman para automação da funcionalidade back-end;
 
