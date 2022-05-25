@@ -11,7 +11,7 @@ Os desafios devem ser agrupados em um único projeto.
 O desafio consiste em:
 
 1. Especificar cenários de testes, baseado em um protótipo;
-2. Automatizar o teste front-end de 2 funcionalidades;
+2. <strike>Automatizar o teste front-end de 2 funcionalidades;</strike>
 3. Automatizar o teste back-end de uma API;
 
 
@@ -21,17 +21,17 @@ Crie cenários de testes baseados no protótipo abaixo. Você está livre para u
 
 ![Resumo do Cliente](https://github.com/WealthSystems/qa-challenge/blob/master/images/client-summary.png)
 
-## 2 - Automação de 2 funcionalidades front-end
+## 2 - <strike>Automação de 2 funcionalidades front-end</strike>
 
-No site abaixo existem duas funcionalidades á serem testadas.
+<strike>No site abaixo existem duas funcionalidades á serem testadas.</strike>
 
-Na primeira, é possível renderizar um elemento escondido.
+<strike>Na primeira, é possível renderizar um elemento escondido.
 Crie uma automação que clique no botão “Start”, aguarde pelo carregamento do elemento e faça uma validação que o texto “Hello World!” foi apresentado.
-https://the-internet.herokuapp.com/dynamic_loading/1
+https://the-internet.herokuapp.com/dynamic_loading/1</strike>
 
-Na segunda, os seletores dos elementos que você utilizar serão avaliados. Seu desafio é encontrar bons seletores para os elementos.
+<strike>Na segunda, os seletores dos elementos que você utilizar serão avaliados. Seu desafio é encontrar bons seletores para os elementos.
 Crie uma automação que clique nos três botões apresentados em tela e em todos “edit” e “delete” da grid.
-https://the-internet.herokuapp.com/challenging_dom
+https://the-internet.herokuapp.com/challenging_dom</strike>
 
 ## 3 - Automação de 1 funcionalidade back-end
 
@@ -46,19 +46,22 @@ Os itens abaixo não são obrigatórios.
 - Use Gherkin para descrição dos cenários de testes;
   - Video 1: O que é BDD: https://youtu.be/DoEzwnqB1mk
   - Video 2: O que é Gherkin: https://youtu.be/XYhaFnjvi3U?t=224
-- Para automação das funcionalides front-end, busque usar um framework JavaScript;
+  - Video 3: BDD e a sintaxe Gherkin: https://youtu.be/SXaK4mhaerE
+- <strike>Para automação das funcionalides front-end, busque usar um framework JavaScript;</strike>
 - Utilize o Postman para automação da funcionalidade back-end;
 
 
 # O que vamos avaliar
 - A estruturação e escrita dos cenários de testes;
-- Os cenários e validações das automações;
+- <strike>Os cenários e validações das automações;</strike>
 - A utilização de padrões de projetos;
 - A estruturação do projeto;
-- Boas práticas de programação;
+- <strike>Boas práticas de programação;</strike>
 
 
 # A apresentação do desafio
-- Crie um repositório para o projeto em sua conta pessoal no GitHub;
-- Crie um README.md com as instruções para a execução do projeto;
-- Nos envie o link do repositório via Plataforma GUPY por onde recebeu essas instruções.
+- Para enviar faça um fork detes projeto coloque os arquivos e abra uma Pull Request
+  - Obs: Apenas abra a Pull Reques não faça o merge da mesma
+  - Obs 2: Use comandos do git para subir as alterações
+- Export também a collection do postman em json e também adicione o arquivo nesse projeto
+  - Como exportar: https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#exporting-collections
