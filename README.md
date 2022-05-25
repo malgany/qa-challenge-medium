@@ -60,7 +60,7 @@ Os itens abaixo não são obrigatórios.
 
 
 # A apresentação do desafio
-- Para enviar faça um fork detes projeto coloque os arquivos e abra uma Pull Request
+- Para enviar faça um fork dete projeto coloque os arquivos e abra uma Pull Request
   - Obs: Apenas abra a Pull Reques não faça o merge da mesma
   - Obs 2: Use comandos do git para subir as alterações
 - Export também a collection do postman em json e também adicione o arquivo nesse projeto
